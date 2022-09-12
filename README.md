@@ -1,5 +1,7 @@
 # Test-Nuxt-GA4-partytown
 
+LIVE: https://kaleidoscopic-jalebi-e941b8.netlify.app/
+
 -----------------------------------
 package.json:
 @nuxtjs/partytown: "^1.2.2"
