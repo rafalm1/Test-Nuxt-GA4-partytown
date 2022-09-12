@@ -1,4 +1,5 @@
 # Test-Nuxt-GA4-partytown
+
 package.json:
 "@nuxtjs/partytown": "^1.2.2"
 -----------------------------------
