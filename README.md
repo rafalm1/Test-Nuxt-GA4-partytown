@@ -5,8 +5,8 @@ package.json:
 @nuxtjs/partytown: "^1.2.2"
 
 nuxt.config:
-...
-  // Modules: https://go.nuxtjs.dev/config-modules
+  ...
+  Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://partytown.builder.io/nuxt
     '@nuxtjs/partytown',
