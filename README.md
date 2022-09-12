@@ -19,4 +19,4 @@ nuxt.config:
   },
   
   index.html:
-  <script type="text/partytown" ...gtag script.../>
+  <script type="text/partytown" ...gtag(GA4) script.../>
